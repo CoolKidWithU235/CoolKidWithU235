@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @CoolKidWithU235
-- 👀 I’m interested in: Robotics, Ai, and general stuff abut computers
-- 🌱 I’m currently learning: Natural sciences
-- 💞️ I’m looking to collaborate on: Anything really
-- 📫 How to reach me: Mssige me on github
+I am a college student persuing an engineering degree in Electrical Engineering. I aslo enjoy machinihg at an amateur level. 
 
 <!---
 CoolKidWithU235/CoolKidWithU235 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
